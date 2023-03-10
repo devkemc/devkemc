@@ -48,5 +48,5 @@
 
   </div>
 
-   ![Snake animation](https://github.com/devkemc/devkemc/blob/output/github-contribution-grid-snake.svg)
+ 
 
