@@ -34,8 +34,6 @@
 </div>
 
 <div style="display: flex; justify-content: center; align-items: center; padding: 15px;"> 
-  <a href="https://instagram.com/gustavoxxsr/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/gustavo-santos-55a13a201/" target="_blank"><img src="https://img
 
 
   ##
