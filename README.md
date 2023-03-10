@@ -14,7 +14,7 @@
 # Certificações
   
   ## JavaScript
-  <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="c5ef45c7-a5bd-4f75-8369-15ca5288cf0c" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+ <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="c5ef45c7-a5bd-4f75-8369-15ca5288cf0c" data-share-badge-host="https://www.credly.com"></div>
   
 # Tecnologias
 
