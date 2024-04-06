@@ -20,9 +20,9 @@
     <p>🔭 Estou sempre buscando expandir meu conhecimento e habilidades técnicas, e aprofundar minha compreensão de Java e Go Lang é um dos meus principais objetivos no momento. Estou animado para explorar as possibilidades oferecidas por essas linguagens e aplicá-las em projetos futuros.</p>
     <p>📫 Se você está procurando colaboradores para projetos empolgantes ou quer discutir sobre tecnologia, estou sempre aberto a novas oportunidades de aprendizado e colaboração. Você pode entrar em contato comigo pelo <a href="https://www.linkedin.com/in/joaquim-kennedy-1001b3197/">LinkedIn</a> para trocar experiências ou compartilhar ideias sobre o desenvolvimento de software.</p>
   </div>
-  <div style="display:flex; flex-direction: column; height: 20rem; gap:20px;">
-    <img style="height:20rem;" src="assets/certifications/jse-40-01.png">
-    <img style="height:20rem;" src="assets/certifications/jsa-41-01.png">
+  <div style="display:flex; height: 15rem; gap:20px;">
+    <img style="height:15rem;" src="assets/certifications/jse-40-01.png">
+    <img style="height:15rem;" src="assets/certifications/jsa-41-01.png">
   </div>
 </div>
 </main>
