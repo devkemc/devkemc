@@ -26,7 +26,7 @@
     <img style="height:15rem;" src="assets/certifications/jsa-41-01.png">
   </div>
 </div>
-<section style="display:flex; justify-content:center; gap:20px; height:18rem; width:100%">
+<section style="display:flex; justify-content:center; gap:20px; height:15rem; width:100%">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devkemc&hide=css,html,plsql,scala">
   <img src="https://github-readme-stats.vercel.app/api?username=devkemc&show_icons=true&theme=vue">
 </section>
