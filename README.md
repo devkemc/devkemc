@@ -26,4 +26,7 @@
     <img style="height:15rem;" src="assets/certifications/jsa-41-01.png">
   </div>
 </div>
+<div>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devkemc&hide=css,html,plsql,scala">
+</div>
 </main>
