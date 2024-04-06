@@ -27,7 +27,7 @@
   </div>
 </div>
 <section style="display:flex; justify-content:center; gap:20px; height:15rem; width:100%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devkemc&hide=css,html,plsql,scala">
+  <img style="max-heigth:200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devkemc&hide=css,html,plsql,scala">
   <img src="https://github-readme-stats.vercel.app/api?username=devkemc&show_icons=true&theme=vue">
 </section>
 </main>
