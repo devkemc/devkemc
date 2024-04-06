@@ -1,10 +1,5 @@
 
   ### Olá! Prazer, JOAQUIM KENNEDY BATISTA DE SOUZA 💻
-
-  - 🔭 Atualmente estou estagiando como desenvolvedor full stack "NewGo Tecnologia" Localizada em Mogi Das Cruzes
-  - 🌱 Estudando Análise e Desenvolvimento de Sistemas (Fatec)
-  - 📫 E-mail para contato: joaquimkbs@gmail.com
-
   <div align="center">
     <a href="https://github.com/devkemc">
     <img height="170em" src="https://github-readme-stats.vercel.app/api?username=devkemc&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
